@@ -6,7 +6,15 @@ https://play.tailwindcss.com/
 
 
 
+Good templates
+
 https://www.tailwindtoolbox.com/starter-templates
+
+
+Good stuff
+
+https://flowbite.com/docs/components/navbar/
+
 
 Good dashboard
 
